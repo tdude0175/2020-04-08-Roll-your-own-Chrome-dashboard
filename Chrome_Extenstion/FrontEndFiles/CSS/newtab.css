@@ -1,4 +1,13 @@
 #main_body
 {
-    background-color: red;
+    background-image: url(https://source.unsplash.com/random/3840x2160);
+    background-size: cover;
+}
+#Title
+{
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    margin: 0 40%;
+    border-radius: 20%;
 }

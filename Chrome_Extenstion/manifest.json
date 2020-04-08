@@ -1,6 +1,10 @@
 {
   "name": "Getting Started Example",
   "version": "1.0",
+  "permissions":
+  [
+    "storage"
+  ],
   "chrome_url_overrides":
   {
     "newtab": "./FrontEndFiles/HTML/newtab.html"
