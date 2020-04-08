@@ -1,0 +1,10 @@
+{
+  "name": "Getting Started Example",
+  "version": "1.0",
+  "chrome_url_overrides":
+  {
+    "newtab": "./FrontEndFiles/HTML/newtab.html"
+  },  
+  "description": "Thomas Brown Extention one",
+  "manifest_version": 2
+}
